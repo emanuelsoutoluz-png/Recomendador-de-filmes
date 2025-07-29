@@ -1,0 +1,13 @@
+/* ... o restante do CSS permanece igual ... */
+
+.video-card h2 {
+  margin: 10px 0 5px;
+  font-size: 1.2em;
+  color: #444;
+}
+
+.video-card p {
+  margin: 4px 0;
+  font-size: 0.95em;
+  color: #666;
+}
